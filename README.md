@@ -2,7 +2,10 @@ This project is a single-page resume website built using only HTML.
 
 It focuses on semantic structure, readability, and proper usage of HTML tags, without using any CSS or JavaScript.
 
-The resume layout is inspired by a traditional resume format and includes all essential sections such as personal details, skills, experience, projects, education, and contact information.
+The resume layout is inspired by a traditional resume format and includes all essential sections such as personal details, skills, experience, projects, education, and contact information. sample image
+
+<img width="1919" height="1029" alt="Image1" src="https://github.com/user-attachments/assets/4f8c4b8e-7f4c-4f22-b8af-159f24f3e26a" />
+
 
 🚀 Features
 
