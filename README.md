@@ -39,6 +39,7 @@ Footer.
 HTML5
 
 📁 Project Structure
+
 html-resume/
 │
 ├── index.html
