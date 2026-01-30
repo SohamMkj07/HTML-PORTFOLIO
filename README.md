@@ -6,22 +6,33 @@ The resume layout is inspired by a traditional resume format and includes all es
 
 🚀 Features
 
-Pure HTML-only implementation (No CSS / No JavaScript)
-Uses semantic HTML5 elements
-Clean and readable structure
-Easy to modify with your own details
-Can be hosted or viewed directly in the browser
+Pure HTML-only implementation (No CSS / No JavaScript).
+
+Uses semantic HTML5 elements.
+
+Clean and readable structure.
+
+Easy to modify with your own details.
+
+Can be hosted or viewed directly in the browser.
 
 🧱 Sections Included
 
-Header / Name
-About Me
-Skills (List)
-Experience (Table)
-Projects
-Education (Table)
-Contact Details
-Footer
+Header / Name.
+
+About Me.
+
+Skills (List).
+
+Experience (Table).
+
+Projects.
+
+Education (Table).
+
+Contact Details.
+
+Footer.
 
 🛠️ Technologies Used
 
